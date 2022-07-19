@@ -3,7 +3,8 @@
 
 ### I´m software developer, Android engineer is my current job.
 
-### In this reposories finded interest projects with Android native
+### In this reposytories finded interest projects with Android native
+
 
 <table align="center">
   <tr>
