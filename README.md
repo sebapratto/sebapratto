@@ -7,8 +7,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/sebapratto/blob/master/screen-1.png" width=439 height=812/></td>
-    <td><img src="https://github.com/sebapratto/blob/master/screen-2.png" width=439 height=812/></td>
+    <td><img src="https://github.com/sebapratto/sebapratto/blob/master/screen-1.png" width=439 height=812/></td>
+    <td><img src="https://github.com/sebapratto/sebapratto/blob/master/screen-2.png" width=439 height=812/></td>
   </tr>
  </table>
 
