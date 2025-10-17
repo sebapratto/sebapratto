@@ -1,24 +1,22 @@
 # Hi there 👋
 ### Thank for your visit..!
 
-### 🎯 I'm Senior Software Engineer especializado en desarrollo Android y soluciones móviles cross-platform. Con más de 10 años de experiencia, he liderado y ejecutado proyectos de alto impacto en empresas como ### Telecom, OCA, COTO, Agrobit, Mostaza, creando apps escalables y robustas para millones de usuarios.
+### 🎯 I’m a Senior Software Engineer specialized in Android–iOS development and cross-platform mobile solutions.
+With over 10 years of experience, I’ve led and delivered high-impact projects for companies such as Telecom, OCA, COTO, Agrobit, and Mostaza, creating scalable and robust apps used by millions of users.
 
-💻 Stack principal: Kotlin, Jetpack Compose, Kotlin Multiplatform, Android TV, Firebase, Deeplinks, Java + Spring Boot, Retrofit, Flutter, Swift.
-🧠 Fuerte orientación a buenas prácticas: Clean Architecture, SOLID, CI/CD, Code Reviews, Agile Scrum.
-🚀 Experiencia comprobada en apps B2C, B2B, logística, streaming y sistemas de tracking.
+💻 Main tech stack: Kotlin, Jetpack Compose, Kotlin Multiplatform, Android TV, Firebase, Deeplinks, Java + Spring Boot, Retrofit, Flutter, Swift.
+🧠 Strong focus on best practices: Clean Architecture, SOLID principles, CI/CD, Code Reviews, Agile Scrum.
+🚀 Proven experience in B2C, B2B, logistics, streaming, and tracking systems.
 
-✅ Lo que me destaca:
+✅ What sets me apart:
+• Deep refactoring with a focus on maintainability.
+• Full-stack integration: Mobile + REST Backend.
+• Mentorship for junior developers.
+• Flexibility to adapt to both backend and frontend projects.
+• Optimization of CI/CD pipelines and automated deployments.
 
-• Refactorizaciones profundas con foco en mantenibilidad.
-• Integración full-stack: Mobile + Backend REST.
-• Mentoría a developers junior.
-• Fluidez para adaptarme a proyectos backend y frontend.
-• Optimización de procesos CI/CD y despliegues automatizados.
-
-🔎 Actualmente abierto a oportunidades como Senior Android Engineer, Mobile Tech Lead o Full Stack Mobile Developer, con foco en productos escalables, innovación y desafíos técnicos.
-
-📬 ¡Conectemos si estás buscando un perfil técnico comprometido, con visión de producto y pasión por el desarrollo!
-
+🔎 Currently open to opportunities as Senior Android Engineer, Mobile Tech Lead, or Full-Stack Mobile Developer, with a focus on scalable products, innovation, and technical challenges.
+📬 Let’s connect if you’re looking for a dedicated technical profile with strong product vision and passion for development!
 
 <table align="center">
   <tr>
@@ -30,7 +28,7 @@
 
 
 
-###Here are some skills:
+###Algunos skills:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
