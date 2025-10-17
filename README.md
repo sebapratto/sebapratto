@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Thank for your visit..!
 
-### 🎯 Senior Software Engineer especializado en desarrollo Android y soluciones móviles cross-platform. Con más de 10 años de experiencia, he liderado y ejecutado proyectos de alto impacto en empresas como ### Telecom, OCA, COTO, Agrobit, Mostaza, creando apps escalables y robustas para millones de usuarios.
+### 🎯 I'm Senior Software Engineer especializado en desarrollo Android y soluciones móviles cross-platform. Con más de 10 años de experiencia, he liderado y ejecutado proyectos de alto impacto en empresas como ### Telecom, OCA, COTO, Agrobit, Mostaza, creando apps escalables y robustas para millones de usuarios.
 
 💻 Stack principal: Kotlin, Jetpack Compose, Kotlin Multiplatform, Android TV, Firebase, Deeplinks, Java + Spring Boot, Retrofit, Flutter, Swift.
 🧠 Fuerte orientación a buenas prácticas: Clean Architecture, SOLID, CI/CD, Code Reviews, Agile Scrum.
