@@ -9,11 +9,17 @@ With over 10 years of experience, I’ve led and delivered high-impact projects 
 🚀 Proven experience in B2C, B2B, logistics, streaming, and tracking systems.
 
 ✅ What sets me apart:
+
 • Deep refactoring with a focus on maintainability.
+
 • Full-stack integration: Mobile + REST Backend.
+
 • Mentorship for junior developers.
+
 • Flexibility to adapt to both backend and frontend projects.
+
 • Optimization of CI/CD pipelines and automated deployments.
+
 
 🔎 Currently open to opportunities as Senior Android Engineer, Mobile Tech Lead, or Full-Stack Mobile Developer, with a focus on scalable products, innovation, and technical challenges.
 📬 Let’s connect if you’re looking for a dedicated technical profile with strong product vision and passion for development!
