@@ -1,9 +1,23 @@
 # Hi there 👋
 ### Thank for your visit..!
 
-### I´m software developer, Android engineer is my current job.
+### 🎯 Senior Software Engineer especializado en desarrollo Android y soluciones móviles cross-platform. Con más de 10 años de experiencia, he liderado y ejecutado proyectos de alto impacto en empresas como ### Telecom, OCA, COTO, Agrobit, Mostaza, creando apps escalables y robustas para millones de usuarios.
 
-### In this reposytories finded interest projects with Android native
+💻 Stack principal: Kotlin, Jetpack Compose, Kotlin Multiplatform, Android TV, Firebase, Deeplinks, Java + Spring Boot, Retrofit, Flutter, Swift.
+🧠 Fuerte orientación a buenas prácticas: Clean Architecture, SOLID, CI/CD, Code Reviews, Agile Scrum.
+🚀 Experiencia comprobada en apps B2C, B2B, logística, streaming y sistemas de tracking.
+
+✅ Lo que me destaca:
+
+• Refactorizaciones profundas con foco en mantenibilidad.
+• Integración full-stack: Mobile + Backend REST.
+• Mentoría a developers junior.
+• Fluidez para adaptarme a proyectos backend y frontend.
+• Optimización de procesos CI/CD y despliegues automatizados.
+
+🔎 Actualmente abierto a oportunidades como Senior Android Engineer, Mobile Tech Lead o Full Stack Mobile Developer, con foco en productos escalables, innovación y desafíos técnicos.
+
+📬 ¡Conectemos si estás buscando un perfil técnico comprometido, con visión de producto y pasión por el desarrollo!
 
 
 <table align="center">
